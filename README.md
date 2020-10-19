@@ -12,7 +12,7 @@ My main language is French but I’m trying my best to deliver in English for to
 
 <!-- - 🌐 [loule.me](https://loule.me)-->
 - 💬 [Twitter](https://twitter.com/TouKhen)
-- 📼 [Imgur](https://imgur.com/user/PicsouLaLoutre)
+- 📼 [Imgur](https://imgur.com/user/TouKhen)
 <!-- - 📝 [Dev.to](https://dev.to/loule/)-->
 
 ![](https://i.imgur.com/HtTkOPJ.png)
